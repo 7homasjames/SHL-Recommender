@@ -1,0 +1,11 @@
+streamlit
+selenium
+beautifulsoup4
+openai
+langchain
+python-dotenv
+requests
+tiktoken
+html5lib
+urllib3
+chromedriver-autoinstaller
